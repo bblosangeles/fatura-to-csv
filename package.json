@@ -9,5 +9,10 @@
   "author": "",
   "license": "ISC",
   "description": "",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "@types/node": "^22.1.0",
+    "pdf-data-parser": "^1.2.14",
+    "typescript": "^5.5.4"
+  }
 }
